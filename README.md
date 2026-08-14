@@ -3,7 +3,7 @@
 ## What you will find
 
 /hyprland.lua -> Main Config file <br>
-```bash
+```markdown
 /config/ -> Subfolder of different configs (for cleaner structure) <br>
     /config/animations.lua -> config for all animation related settings <br>
     /config/autostart.lua -> all autostart applications are defined here <br>
