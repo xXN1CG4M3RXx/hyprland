@@ -3,6 +3,7 @@
 ## What you will find
 
 /hyprland.lua -> Main Config file <br>
+```bash
 /config/ -> Subfolder of different configs (for cleaner structure) <br>
     /config/animations.lua -> config for all animation related settings <br>
     /config/autostart.lua -> all autostart applications are defined here <br>
@@ -16,3 +17,4 @@
     /config/variables.lua -> definitions for config wide variables <br>
     /config/windowrules.lua -> rules for window behaviour (floating/tiling etc.) <br>
     /config/workspaces.lua -> workspace settigns <br>
+```
