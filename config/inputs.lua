@@ -4,8 +4,8 @@ hl.config({
     input = {
         -- sensitivity = -0.25,
         accel_profile = "flat",
-	natural_scroll = true,
-	scroll_factor = 0.3, 
+	natural_scroll = false,
+	scroll_factor = 1, 
     },
     -- Uncomment the section below to enable software cursors; this can help with cursor display or behavior issues
     -- cursor = {
