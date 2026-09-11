@@ -11,7 +11,7 @@ if f then
     -- Docked: Disable internal screen
     hl.monitor({
         output = "eDP-1",
-        mode = "disable"
+        disabled = true
     })
 else
     -- Undocked / Switched away: Enable internal screen
